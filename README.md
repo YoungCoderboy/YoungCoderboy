@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next-Js**
 
-- 👨‍💻 All of my projects are available at [https://deeponkar.netlify.app/](https://deeponkar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deeponkar.netlify.app/](https://deepponkar.netlify.app/)
 
 - 💬 Ask me about **React, Javascript , Competitive Programming , Problem Solving, Nodejs , Express-Js , MongoDB , mongoose**
 
