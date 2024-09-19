@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deep Onkar</h1>
-<h3 align="center">A passionate Web Developer, Have expertise in MERN Stack</h3>
+<h3 align="center">A passionate Web Developer, Have expertise in MERN Stack, Software Developer @EagleEyeNetworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youngcoderboy&label=Profile%20views&color=0e75b6&style=flat" alt="youngcoderboy" /> </p>
 
 - 🌱 I’m currently learning **Next-Js**
-
-- 👨‍💻 All of my projects are available at [https://deeponkar.netlify.app/](https://deepponkar.netlify.app/)
+  
+- 💀 I'm actively developing applications using Go. 
+  
+- 👨‍💻 All of my projects are available at [🫣](https://deepponkar.netlify.app/)
 
 - 💬 Ask me about **React, Javascript , Competitive Programming , Problem Solving, Nodejs , Express-Js , MongoDB , mongoose**
 
