@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deep Onkar</h1>
-<h3 align="center">A passionate Web Developer, Have expertise in MERN Stack, Software Developer @EagleEyeNetworks</h3>
+<h3 align="center">A passionate Software Developer, Software Developer @EagleEyeNetworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youngcoderboy&label=Profile%20views&color=0e75b6&style=flat" alt="youngcoderboy" /> </p>
 
-- 🌱 I’m currently learning **Next-Js**
+- 🌱 I’m currently learning **Rust**
   
 - 💀 I'm actively developing applications using Go. 
   
